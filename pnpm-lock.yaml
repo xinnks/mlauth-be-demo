@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   dotenv: ^16.0.1
   express: ^4.18.1
-  mlauth-js: ^1.0.0
+  mlauth-js: ^1.1.0
   ohmyfetch: ^0.4.18
 
 dependencies:
   express: 4.18.1
-  mlauth-js: 1.0.0
+  mlauth-js: 1.1.0
 
 devDependencies:
   dotenv: 16.0.1
@@ -275,8 +275,8 @@ packages:
     hasBin: true
     dev: false
 
-  /mlauth-js/1.0.0:
-    resolution: {integrity: sha512-KTJajFmGZKMLVCk9nh3aa9oWzLP8K9s5Jv+FrAiD6Ib2eaHca53rc2xnnwxUGK8ZjxNSjOjkLDpYcVyZHAotDg==}
+  /mlauth-js/1.1.0:
+    resolution: {integrity: sha512-MzhKP+TxRvXzif/5x5wIsWJt3cgFQllPfJhu/KymKDq1TBDbinIkKNIoVWFVPyUMgLbLw+jbacLIWySQl/HPZQ==}
     dependencies:
       ohmyfetch: 0.4.18
     dev: false
